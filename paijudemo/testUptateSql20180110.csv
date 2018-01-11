@@ -1,0 +1,238 @@
+
+
+
+
+
+update judgedoc_litigant set litigant_type = '原告', litigant_type_alias = '1' where doc_id = '5953dd70-1bcb-4b87-8bb2-a78600a033c0' and litigant_name='ＢＩＡＮＷＥＩＨＵＡ';
+
+
+
+update judgedoc_litigant set litigant_type = '被告', litigant_type_alias = '2' where doc_id = 'a6f6eb5a-04a7-4949-b2cb-a81c011eacc7' and litigant_name='湖南天人农药有限公司';
+
+
+
+
+
+update judgedoc_litigant set litigant_type = '原告', litigant_type_alias = '1' where doc_id = '479bfd3a-dfa1-44c7-807e-a7760093383e' and litigant_name='华夏信财企业管理咨询（上海）有限公司';
+
+
+
+
+update judgedoc_litigant set litigant_type = '原告', litigant_type_alias = '1' where doc_id = '46154197-63b6-4997-b985-a8390110386d' and litigant_name='中国邮政储蓄银行雷波县支行';
+update judgedoc_litigant set litigant_type = '被告', litigant_type_alias = '2' where doc_id = '76ce65c2-e4c3-4bdd-9fd8-a83901103e83' and litigant_name='中国人民财产保险股份有限公司永善支公司';
+
+
+
+
+update judgedoc_litigant set litigant_type = '原告', litigant_type_alias = '1' where doc_id = '3e6df3cd-f8d9-4760-bb2c-a7fe00dbbd9a' and litigant_name='河南武陟农村商业银行股份有限公司';
+
+
+
+
+
+update judgedoc_litigant set litigant_type = '第三方', litigant_type_alias = '2' where doc_id = '0fc1a336-b9f2-4fa2-802f-a85000bb5a38' and litigant_name='第三人中国建设银行股';
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+update judgedoc_litigant set litigant_type = '被告', litigant_type_alias = '2' where doc_id = '43671c94-1ca2-4b9e-b26d-a83c009cdb5b' and litigant_name='安徽繁鑫建设有限公司';
+update judgedoc_litigant set litigant_type = '被告', litigant_type_alias = '2' where doc_id = '0ae1ad5e-20e2-4102-b22d-a744013b260a' and litigant_name='武汉ＸＸ有限责任公司';
+
+update judgedoc_litigant set litigant_type = '被告', litigant_type_alias = '2' where doc_id = '9b832c65-3278-4e7e-8c6f-a7c1017601de' and litigant_name='中电电气（南京）特种变压器有限公司';
+
+
+
+
+
+
+
+update judgedoc_litigant set litigant_type = '被告', litigant_type_alias = '2' where doc_id = 'cdee6bfe-3f7c-4f30-a4f5-a83e000ffec8' and litigant_name='ｘｘ公司';
+
+
+
+
+
+
+
+
+
+update judgedoc_litigant set litigant_type = '被告', litigant_type_alias = '2' where doc_id = 'edf0cf4d-b02d-431f-a3c3-a76a008b2a5c' and litigant_name='凉州区金羊镇宋家园村第八村民小组';
+update judgedoc_litigant set litigant_type = '被告', litigant_type_alias = '2' where doc_id = 'edf0cf4d-b02d-431f-a3c3-a76a008b2a5c' and litigant_name='凉州区金羊镇宋家园村民委员会';
+
+
+
+
+
+
+update judgedoc_litigant set litigant_type = '被告', litigant_type_alias = '2' where doc_id = '3d4a8b64-83a2-46e6-86bd-a7a200b89593' and litigant_name='三星财产保险（中国）有限公司';
+
+
+
+
+
+
+update judgedoc_litigant set litigant_type = '被告', litigant_type_alias = '2' where doc_id = 'caa823bd-e761-41f7-b31f-a7fe00f2b8c9' and litigant_name='常州市凌家塘胡佃国禽蛋经营部';
+update judgedoc_litigant set litigant_type = '被告', litigant_type_alias = '2' where doc_id = 'caa823bd-e761-41f7-b31f-a7fe00f2b8c9' and litigant_name='武进区凌家塘市场陈记副食品商行';
+update judgedoc_litigant set litigant_type = '原告', litigant_type_alias = '1' where doc_id = '5e790d27-fd2d-4cbf-adb7-a82a00649bd5' and litigant_name='青海银行股份有限公司小企业金融服务中心［统一社会信用代码';
+
+update judgedoc_litigant set litigant_type = '原告', litigant_type_alias = '1' where doc_id = 'c6ece4ce-fa54-418b-b3fd-a84a010ea4d3' and litigant_name='常德市汉寿县永丰华盛小额贷款股份有限公司';
+
+
+
+
+
+
+
+
+
+
+
+update judgedoc_litigant set litigant_type = '被告', litigant_type_alias = '2' where doc_id = 'c6fa1f82-75b3-46be-a170-a84900be8f24' and litigant_name='深圳市蓝钻文化投资有限公司蓝钻量贩式ＫＴＶ宝安店';
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+update judgedoc_litigant set litigant_type = '原告', litigant_type_alias = '1' where doc_id = '4bba49dc-4a16-4e81-9a33-a817010c8a83' and litigant_name='湖南祁阳农村商业银行股份有限公司马鞍岭支行';
+
+
+
+
+
+
+update judgedoc_litigant set litigant_type = '被告', litigant_type_alias = '2' where doc_id = 'fd039a05-646e-4f1f-9dfc-a7ca01202879' and litigant_name='常德市武陵区ｘｘｘｘ村民委员会2村民组';
+update judgedoc_litigant set litigant_type = '被告', litigant_type_alias = '2' where doc_id = 'fd039a05-646e-4f1f-9dfc-a7ca01202879' and litigant_name='常德市武陵区ｘｘｘｘ村民委员会';
+
+
+
+
+
+
+
+
+
+update judgedoc_litigant set litigant_type = '原告', litigant_type_alias = '1' where doc_id = 'e664eb70-0c41-4021-a439-a85c01154adc' and litigant_name='河南舞钢农村商业银行股份有限公司';
+
+update judgedoc_litigant set litigant_type = '被告', litigant_type_alias = '2' where doc_id = 'c1c11189-2e1c-455e-a184-a84f01397dde' and litigant_name='大连九鼎餐饮管理有限公司';
+
+
+update judgedoc_litigant set litigant_type = '被告', litigant_type_alias = '2' where doc_id = '86b937c6-93e9-4cc8-91bd-a81200e7ec6a' and litigant_name='河南金泰生物肥业有限公司';
+update judgedoc_litigant set litigant_type = '被告', litigant_type_alias = '2' where doc_id = '0500ee16-8bcb-4aff-9fed-a7bb012f36ec' and litigant_name='阳光财产保险股份有限公司';
+
+
+
+
+
+
+
+
+update judgedoc_litigant set litigant_type = '原告', litigant_type_alias = '1' where doc_id = 'cf831eab-30a6-462c-ad70-a7dd00ba41b2' and litigant_name='卡特彼勒（中国）融资租赁有限公司';
+
+
+
+
+
+update judgedoc_litigant set litigant_type = '原告', litigant_type_alias = '1' where doc_id = 'bcd39ff0-11a2-4a48-8a7f-a7e0016f8dec' and litigant_name='汉华易美（天津）图像技术有限公司';
+
+
+
+
+
+
+
+
+
+
+update judgedoc_litigant set litigant_type = '被告', litigant_type_alias = '2' where doc_id = '244c61ef-43a3-4c77-a62c-a7fd0119e3d6' and litigant_name='湖南ＸＸ铋业股份有限公司';
+update judgedoc_litigant set litigant_type = '原告', litigant_type_alias = '1' where doc_id = '244c61ef-43a3-4c77-a62c-a7fd0119e3d6' and litigant_name='郴州ＸＸ燃气有限公司';
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+update judgedoc_litigant set litigant_type = '被告', litigant_type_alias = '2' where doc_id = 'd85cd503-86d5-4521-8ef2-a81f009b705f' and litigant_name='大宜财富投资管理（上海）有限公司';
+
+
+
+
+
+
+update judgedoc_litigant set litigant_type = '被告', litigant_type_alias = '2' where doc_id = '4ef30592-e0b0-441d-ac01-a7a10123239c' and litigant_name='长宁县江阳卫生材料有限公司';
+
+
+
+
+
+
+
+
+update judgedoc_litigant set litigant_type = '被告', litigant_type_alias = '2' where doc_id = '462046c7-4b39-43bc-956f-a7fa01218c2c' and litigant_name='阳光财产保险股份有限公司安图支公司';
+
+
+update judgedoc_litigant set litigant_type = '被告', litigant_type_alias = '2' where doc_id = '8e0db9f8-6837-491e-9f63-a839009ceda8' and litigant_name='长春市嫦娥化工厂';
+update judgedoc_litigant set litigant_type = '被告', litigant_type_alias = '2' where doc_id = '8e0db9f8-6837-491e-9f63-a839009ceda8' and litigant_name='长春嫦娥建筑装潢有限公司';
+

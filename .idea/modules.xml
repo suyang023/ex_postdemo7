@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../dataEND/.idea/dataEND.iml" filepath="$PROJECT_DIR$/../dataEND/.idea/dataEND.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dataFram/.idea/dataFram.iml" filepath="$PROJECT_DIR$/../dataFram/.idea/dataFram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ex_postdemo.iml" filepath="$PROJECT_DIR$/.idea/ex_postdemo.iml" />
+      <module fileurl="file:///media/yucun/软件/苏佼/工作数据/20180109/paijudemo/.idea/paijudemo.iml" filepath="/media/yucun/软件/苏佼/工作数据/20180109/paijudemo/.idea/paijudemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../untitled/.idea/untitled.iml" filepath="$PROJECT_DIR$/../untitled/.idea/untitled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../write/.idea/write.iml" filepath="$PROJECT_DIR$/../write/.idea/write.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../write2/.idea/write2.iml" filepath="$PROJECT_DIR$/../write2/.idea/write2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../writework/.idea/writework.iml" filepath="$PROJECT_DIR$/../writework/.idea/writework.iml" />
+    </modules>
+  </component>
+</project>
